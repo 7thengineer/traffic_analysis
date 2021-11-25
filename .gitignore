@@ -1,0 +1,6 @@
+.github/**
+*.png
+*.csv
+*.JPEG
+*.PDF
+yolo-coco
